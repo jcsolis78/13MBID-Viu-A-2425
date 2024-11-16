@@ -3,4 +3,4 @@ outs:
   size: 845190
   isexec: true
   hash: md5
-  path: datos_tarjetas.csv
+  path: datos_tarjetas_mc.csv
